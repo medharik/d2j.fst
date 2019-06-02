@@ -26,6 +26,25 @@ $color=($gender=="male")? "skyblue":"pink";
 echo "<h2 >bienvenue $name</h2>";
 
 ?>
-    
+   <hr>
+<!-- table>tr*4>td*2 -->
+   <table >
+       <tr>
+           <td>Libellé</td>
+           <td></td>
+       </tr>
+       <tr>
+           <td>Prix</td>
+           <td></td>
+       </tr>
+       <tr>
+           <td>Qte en stock</td>
+           <td></td>
+       </tr>
+       <tr>
+           <td>Etat de stock</td>
+           <td></td>
+       </tr>
+   </table> 
 </body>
 </html>
