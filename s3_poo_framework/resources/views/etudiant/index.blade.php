@@ -1,0 +1,72 @@
+@extends('layout')
+@section('alert')
+    <h2 class="alert alert-info text-center">
+        Liste des Etudiants
+
+    </h2>
+@endsection
+
+@section('main')
+<table class="table table-dark">
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+    <tr>
+        <td>data01</td>
+        <td>data02</td>
+        <td>data03</td>
+        <td>data04</td>
+    </tr>
+</table>
+@endsection
